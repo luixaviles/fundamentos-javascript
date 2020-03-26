@@ -26,4 +26,12 @@ Mira el video de la sesión en [YouTube](https://youtu.be/hjSDHz_qKTQ?t=576).
 
 Encuentra los slides del mini curso en [https://bit.ly/fund-js](https://bit.ly/fund-js)
 
+## Contacto
+Apoya este proyecto y regálame una :star:
+
+Sígueme en:
+
+* Twitter: [https://twitter.com/luixaviles](https://twitter.com/luixaviles)
+* GitHub: [https://github.com/luixaviles](https://github.com/luixaviles)
+* YouTube: [https://youtube.com/c/luixaviles](https://youtube.com/c/luixaviles)
 
