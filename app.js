@@ -1,0 +1,1 @@
+console.log('Bienvenido a los Fundamentos de JavaScript');
