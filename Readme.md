@@ -18,9 +18,9 @@ En este mini curso abordamos los Fundamentos de JavaScript usando herramientas m
 12. Funciones
 
 ## Video
-Mira el video de la sesión en [YouTube](https://youtu.be/hjSDHz_qKTQ?t=576).
+Mira el video de la sesión en [YouTube](https://youtu.be/hjSDHz_qKTQ).
 
-[![Fundamentos de JavaScript](https://img.youtube.com/vi/hjSDHz_qKTQ/0.jpg)](https://youtu.be/hjSDHz_qKTQ?t=576)
+[![Fundamentos de JavaScript](https://img.youtube.com/vi/hjSDHz_qKTQ/0.jpg)](https://youtu.be/hjSDHz_qKTQ)
 
 ## Slides
 
